@@ -1,3 +1,8 @@
+## Roadmap
+- Large File Scanner
+- Duplicate Detector (read-only)
+- Permission Audit (future)
+
 # Activity Reporter
 
 A one-shot, read-only CLI tool that audits file system activity and produces reproducible evidence reports.
